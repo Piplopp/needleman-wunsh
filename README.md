@@ -1,2 +1,2 @@
 # needleman-wunsh
-needleman &amp; wunsh algorithm in Python
+Needleman &amp;Wunsh and Smith&amp;Waterman algorithm in Python
