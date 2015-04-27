@@ -11,6 +11,6 @@ Nothing. Literally, why are you still reading this ?
 
 # Dependencies
 Well, apparently you're brave enough to come here so
-* Python. Yeah, you need Python for running this python script
 * numpy
 * RE (I love regexp so, you need to import this and deal with it.)
+* Python. Yep. You need Python for running this python script
